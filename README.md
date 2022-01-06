@@ -1,2 +1,1 @@
-# GDI
-this is something i don't know what is this find out urself why is this here?
+dGhpcyBpcyBzb21ldGhpbmcgaSBkb24ndCBrbm93IHdoYXQgaXMgdGhpcyBmaW5kIG91dCB1cnNlbGYgd2h5IGlzIHRoaXMgaGVyZT8=
